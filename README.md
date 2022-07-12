@@ -1,2 +1,2 @@
-# Projeto Flex-Box - Página do Instagram
+# Projeto Flexbox - Página do Instagram
 
